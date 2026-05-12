@@ -79,13 +79,13 @@
 5. **1/2/3/0** — Сменить цвет фонаря (Красный/Зелёный/Синий/Белый)
 
 
-![Переключение цветов](results/Shadows.gif)
+![](https://github.com/anastasia-nemkova/Spectral_Shadows/blob/main/results/Shadows.gif)
 *Переключение между тенями*
 
-![Проекция тени](results/Lights.gif)
+![](https://github.com/anastasia-nemkova/Spectral_Shadows/blob/main/results/Light.gif)
 *Проекция тени*
 
-![Экран победы](results/Win.png)
+![](https://github.com/anastasia-nemkova/Spectral_Shadows/blob/main/results/Win.png)
 *Экран победы при сборе всех кристаллов*
 
 
