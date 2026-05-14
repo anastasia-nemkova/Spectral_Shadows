@@ -78,14 +78,16 @@
 4. **F** — Включить/выключить фонарь
 5. **1/2/3/0** — Сменить цвет фонаря (Красный/Зелёный/Синий/Белый)
 
-
-![](https://github.com/anastasia-nemkova/Spectral_Shadows/blob/main/results/Shadows.gif)
-*Переключение между тенями*
-
 ![](https://github.com/anastasia-nemkova/Spectral_Shadows/blob/main/results/Light_projection.gif)
+
 *Проекция тени*
 
+![](https://github.com/anastasia-nemkova/Spectral_Shadows/blob/main/results/Shadows.gif)
+
+*Переключение между тенями*
+
 ![](https://github.com/anastasia-nemkova/Spectral_Shadows/blob/main/results/Win.png)
+
 *Экран победы при сборе всех кристаллов*
 
 
