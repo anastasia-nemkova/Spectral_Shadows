@@ -82,7 +82,7 @@
 ![](https://github.com/anastasia-nemkova/Spectral_Shadows/blob/main/results/Shadows.gif)
 *Переключение между тенями*
 
-![](https://github.com/anastasia-nemkova/Spectral_Shadows/blob/main/results/Light.gif)
+![](https://github.com/anastasia-nemkova/Spectral_Shadows/blob/main/results/Light_projection.gif)
 *Проекция тени*
 
 ![](https://github.com/anastasia-nemkova/Spectral_Shadows/blob/main/results/Win.png)
